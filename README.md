@@ -4,7 +4,7 @@
 
 This project aims to develop a model for predicting categories in satellite images. The code provided uses a Convolutional Neural Network (CNN) architecture to train and evaluate the model.
 
-![Image](https://storage.googleapis.com/kaggle-datasets-images/1544742/2546969/587dbc48162374bca68d9f8c10299a90/dataset-cover.jpg?t=2021-08-21-19-05-27)
+![Image](https://images.unsplash.com/photo-1518577589972-ad2d4f44eae9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fHNhdGVsbGl0ZXxlbnwwfHwwfHx8Mg%3D%3D&auto=format&fit=crop&w=500&q=60)
 
 ## Folder Structure
 
