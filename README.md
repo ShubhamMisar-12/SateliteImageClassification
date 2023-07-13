@@ -1,6 +1,6 @@
 # Satellite Image Prediction Project
 
-[Link to Kaggle Noebook]("https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513")
+[Link to Kaggle Noebook](https://www.kaggle.com/code/shubhammisar/satellite-image-classification-pytorch-cnn?scriptVersionId=133741513)
 
 This project aims to develop a model for predicting categories in satellite images. The code provided uses a Convolutional Neural Network (CNN) architecture to train and evaluate the model.
 
@@ -27,6 +27,11 @@ This project aims to develop a model for predicting categories in satellite imag
 The `satellite-image-classification.ipynb` notebook contains the code for the satellite image prediction project. The notebook uses PyTorch to implement a CNN model for image classification. The provided code performs the following tasks:
 
 1. Imports necessary modules and libraries for data processing and model training.
+
+```bash
+pip install -r requirements.txt
+```
+
 2. Prepares the data by applying transformations to the satellite image dataset.
 3. Creates training and testing datasets using a random split.
 4. Defines the CNN model architecture using the `CNNModel` class.
